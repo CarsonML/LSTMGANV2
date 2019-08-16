@@ -1,0 +1,4 @@
+/numpys/
+/clean_data/
+numpys.zip
+.DS_Store
